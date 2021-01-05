@@ -1,8 +1,6 @@
-# [Adyant](https://stellarcontrivers.github.io/Adyant/)
-## Your Sanskrit Guru
+# [Adyant- Your Sanskrit Guru](https://stellarcontrivers.github.io/Adyant/)
 We're here to help you in your journey of learning Sanskrit right from the beginning to the end.
-![HomePage](https://github.com/StellarContrivers/Adyant/blob/master/assets/img/1.png)
-
+<img src="https://github.com/StellarContrivers/Adyant/blob/master/assets/img/1.png" width="600">
 ## Objective
 The aim of this software project is to make sanskrit learning accessible to all. We aim to make sanskrit easy to learn and fun to use.
 
