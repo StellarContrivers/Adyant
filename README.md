@@ -1,5 +1,5 @@
 # [Adyant- Your Sanskrit Guru](https://stellarcontrivers.github.io/Adyant/)
-We're here to help you in your journey of learning Sanskrit right from the beginning to the end.
+We're here to help you in your journey of learning Sanskrit right from the beginning to the end.<br><br>
 <img src="https://github.com/StellarContrivers/Adyant/blob/master/assets/img/1.png" width="600">
 ## Objective
 The aim of this software project is to make sanskrit learning accessible to all. We aim to make sanskrit easy to learn and fun to use.
@@ -24,3 +24,8 @@ Our software offers Sanskrit lessons which caters to the needs of every individu
 5. . Enjoy learning Sanskrit !!!
 
 ### Crafted into Reality by TEAM StellarContrivers
+- Pratyush Pattnaik
+- Nirali Sahoo
+- Shibani Mohapatra
+- Ayush Kumar Sahoo
+- Abhinandan Roul
